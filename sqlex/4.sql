@@ -1,3 +1,1 @@
-SELECT * 
-FROM printer 
-WHERE color = 'y'
+select * from printer where color = 'y'
